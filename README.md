@@ -1,5 +1,4 @@
 # BORN - Umbilical blood to transfuse preterm neonates
-## sample size calculation
 Extremely low gestational age neonates (i.e., before 28 gestation weeks) need repeated red blood cell concentrate transfusions from adult donors (A-RBC), leading to a high risk of mortality and morbidity. Recent studies showed a close association between low levels of foetal haemoglobin (HbF) and severity of retinopathy of prematurity (ROP) and bronchopulmonary dysplasia (BPD). According to pilot studies, cord blood RBC (CB-RBC) transfusion elicits significantly higher levels of HbF, preventing or strongly reducing the severity of ROP and BPD. BORN is an ongoing multicentric Italian study recruiting premature neonates, with the goal of testing the CB-RBC efficacy over transfusion-associated diseases and estimating the optimal HbF levels to successfully treat them.
 
 ## References
